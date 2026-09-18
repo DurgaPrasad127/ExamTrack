@@ -169,7 +169,7 @@ git clone https://github.com/YOUR_USERNAME/ExamTrack.git
 Replace:
 
 ```text
-YOUR_USERNAME
+DurgaPrasad127
 ```
 
 with the GitHub username that owns the repository.
@@ -177,7 +177,7 @@ with the GitHub username that owns the repository.
 Example:
 
 ```bash
-git clone https://github.com/durgaprasad/ExamTrack.git
+git clone https://github.com/DurgaPrasad127/ExamTrack.git
 ```
 
 ---
@@ -237,6 +237,8 @@ flutter run -d DEVICE_ID
 ```
 
 Example:
+
+#Your Own Device ID
 
 ```bash
 flutter run -d d58129577d75

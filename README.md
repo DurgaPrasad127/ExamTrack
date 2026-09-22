@@ -163,7 +163,7 @@ For Android development, make sure the Android toolchain is working.
 Open a terminal and run:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ExamTrack.git
+git clone https://github.com/DurgaPrasad127/ExamTrack.git
 ```
 
 Replace:
